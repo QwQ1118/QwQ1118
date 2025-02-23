@@ -4,7 +4,7 @@
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=thank+you+for+discovering+my+github+homepage!;感谢你发现我的主页👏" alt="Hello World" title="Hello World"/>
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=thank+you+for+discovering+my+github+homepage!;来者即客👏" alt="Hello World" title="Hello World"/>
 </p>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
