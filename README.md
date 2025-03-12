@@ -11,5 +11,5 @@
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=30&fontAlign=50&fontAlignY=70&desc=to%20free%20will,to%20humanity&descAlign=50&descSize=50&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=30&fontAlign=50&fontAlignY=70&desc=to%20free%20will,to%20the%20humanity&descAlign=50&descSize=50&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
