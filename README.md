@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=here%20is%20wu&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 
 
-### 👋 Hi 
+### 👋 Hi 来者即客
 - 👀 Can call me Qingqing Wu or Christy Wu.
 - 🌆 I'm from Kunming,China. And I'm currently working in Xi'an.
 - 🤔 I'm learning code to open other windows to the world. 
