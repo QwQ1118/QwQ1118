@@ -6,16 +6,26 @@
 ### 👋 Hi 
 - 👀 Can call me Qingqing Wu or Christy Wu.
 - 🌆 I'm from Kunming,China. And I'm currently working in Xi'an.
-- 🤔 I'm learning code to open other windows to the world. [blog](https://www..cn)
+- 🤔 I'm learning code to open other windows to the world. [blog](https://www.ready.cn)
 - 📝 2025 - goal is learnning SQL and settingup my personal blog...
 - 📞 📞 You can contact me through wechat:Qx2_118 or ins:qx2_118
 
+
+### 🌟 GitHub Stats
+<div>
+  <a href="https://github.com/QwQ1118">
+    <img align=center src="https://github-readme-stats.vercel.app/api?username=QwQ1118&show_icons=true&count_private=true&include_all_commits=true&hide_title=false"/>
+  </a>
+  <a href="https://github.com/QwQ1118">
+    <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=QwQ1118&layout=compact&hide_title=false&card_width=350" />
+  </a>
+</div>
 
 
 <p align="center">
     2025 我一定会搭建出 my blog 的 >> 进度：1 %
 </p>
-
+ 
 
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
