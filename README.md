@@ -8,7 +8,7 @@
 - 🌆 I'm from Kunming,China. And I'm currently working in Xi'an.
 - 🤔 I'm learning code to open other windows to the world. 
 - 📝 2025 - goal is learnning SQL and settingup my personal [blog](https://www.ready.cn)...
-- 📞 You can contact me through wechat: Qx2_118 or ins: qx2_118
+- 📞 How reach to me, ins: qx2_118
 
 
 ### 🌟 GitHub Stats
