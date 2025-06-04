@@ -7,7 +7,7 @@
 - 👀 Can call me Qingqing Wu or Christy Wu.
 - 🌆 I'm from Kunming,China. And I'm currently working in Xi'an.
 - 🤔 I'm learning code to open other windows to the world. 
-- 📝 2025 - goal is learnning SQL and settingup my personal [blog](https://www.ready.cn)...
+- 📝 2025 - goal is learnning SQL and settingup my personal [blog](https://qwq1118.github.io)...
 - 📞 How reach to me, ins: qx2_118
 
 
