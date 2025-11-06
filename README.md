@@ -12,7 +12,7 @@
 - 📞 How reach to me, wechat / ins: qx2_118 
 
 ---
-## 🎯 About 2030
+### 🎯 About 2030
 
 > *"At that time, I was about to turn 30..."*  
 
