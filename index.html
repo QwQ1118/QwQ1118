@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2030 Goals</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+        body { background: #f6f8fa; color: #24292e; padding: 2rem 1rem; }
+        .container { max-width: 800px; margin: 0 auto; background: #fff; padding: 2rem; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        header { margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid #eaecef; }
+        h1 { font-size: 1.6rem; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem; }
+        .intro { color: #586069; margin-bottom: 1rem; }
+        .goals { display: grid; grid-template-columns: 1fr; gap: 1rem; }
+        @media (min-width: 600px) { .goals { grid-template-columns: 1fr 1fr; } }
+        .goal { padding: 1rem; border: 1px solid #eaecef; border-radius: 6px; }
+        .goal:hover { border-color: #0366d6; }
+        .goal-header { display: flex; align-items: center; gap: 0.7rem; margin-bottom: 0.8rem; }
+        .icon { width: 36px; height: 36px; border-radius: 50%; background: #f1f8ff; color: #0366d6; display: flex; align-items: center; justify-content: center; }
+        .title { font-weight: 600; }
+        .progress { margin: 0.5rem 0; }
+        .info { display: flex; justify-content: space-between; font-size: 0.9rem; color: #586069; margin-bottom: 0.3rem; }
+        .bar { height: 6px; background: #eaecef; border-radius: 3px; overflow: hidden; }
+        .fill { height: 100%; background: #2ea44f; }
+        .details { font-size: 0.85rem; color: #586069; margin-top: 0.5rem; }
+        .link { color: #0366d6; text-decoration: none; font-weight: 500; }
+        .link:hover { text-decoration: underline; }
+        footer { margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid #eaecef; text-align: center; font-size: 0.85rem; color: #586069; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-bullseye"></i> About 2030</h1>
+            <p class="intro">At that time, I was about to turn 30...</p>
+        </header>
+
+        <div class="goals">
+            <!-- Savings -->
+            <div class="goal">
+                <div class="goal-header">
+                    <div class="icon"><i class="fas fa-money-bill-wave"></i></div>
+                    <div class="title">Savings Goal</div>
+                </div>
+                <div class="progress">
+                    <div class="info"><span>440,000 / 1,000,000</span><span>44%</span></div>
+                    <div class="bar"><div class="fill" style="width:44%"></div></div>
+                </div>
+            </div>
+
+            <!-- Travel -->
+            <div class="goal">
+                <div class="goal-header">
+                    <div class="icon"><i class="fas fa-globe-americas"></i></div>
+                    <div class="title">Travel Goal</div>
+                </div>
+                <div class="progress">
+                    <div class="info"><span>44 / 100 cities</span><span>44%</span></div>
+                    <div class="bar"><div class="fill" style="width:44%"></div></div>
+                </div>
+                <div class="details">abroad: 12/40 | domestic: 32/60</div>
+            </div>
+
+            <!-- Learning -->
+            <div class="goal">
+                <div class="goal-header">
+                    <div class="icon"><i class="fas fa-code"></i></div>
+                    <div class="title">Learning Goal</div>
+                </div>
+                <div class="progress">
+                    <div class="info"><span>SQL & Python</span><span>5%</span></div>
+                    <div class="bar"><div class="fill" style="width:5%"></div></div>
+                </div>
+                <div class="details">sql: 1/20 | python: 1/20</div>
+            </div>
+
+            <!-- Personal World -->
+            <div class="goal">
+                <div class="goal-header">
+                    <div class="icon"><i class="fas fa-cogs"></i></div>
+                    <div class="title">Personal World</div>
+                </div>
+                <div class="progress">
+                    <div class="info"><span>Blog Development</span><span>8%</span></div>
+                    <div class="bar"><div class="fill" style="width:8%"></div></div>
+                </div>
+                <div class="details"><a href="https://qwq1118.github.io" class="link" target="_blank">Visit my world</a></div>
+            </div>
+        </div>
+
+        <footer>Updated regularly | 2025</footer>
+    </div>
+</body>
+</html>
