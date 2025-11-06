@@ -7,7 +7,7 @@
 - 👀 Can call me Qingqing Wu or Christy Wu.
 - 🌆 I'm from Kunming,China.
 - 💼 I'm currently unemployed.
-   > Actually, I am not unemployed. I am engaged in asset allocation and in my spare time, I am a quantitative trader.
+   > *Actually, I am not unemployed. I am engaged in asset allocation and in my spare time, I am a quantitative trader.*
 - 🤔 I'm learning code to open other windows to the world. 
 - 📞 How reach to me, wechat / ins: qx2_118 
 
