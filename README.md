@@ -5,10 +5,22 @@
 
 ### 👋 Hi 来者即客
 - 👀 Can call me Qingqing Wu or Christy Wu.
-- 🌆 I'm from Kunming,China. And I'm currently working in Xi'an.
+- 🌆 I'm from Kunming,China. And I'm currently unemployed.
+- 💼 Actually, I am not unemployed. I am engaged in asset allocation and in my spare time, I am a quantitative trader.
 - 🤔 I'm learning code to open other windows to the world. 
-- 📝 2025 - goal is learnning SQL and settingup my [world](https://qwq1118.github.io)...
-- 📞 How reach to me, wechat: Qx2_118
+- 📞 How reach to me, wechat / ins: qx2_118 
+
+    
+### 🎯 About 2030
+- ⌛️ At that time, I was about to turn 30...
+   - 💰 Save up to **1,000,000**        >> 44,0000/1,000,000
+   - 🌍 Travel to **100 cities**        >> abroad: 12/40 | domestic: 32/60
+   - 📝 Learnning **sql、python**       >> sql: 1/20 | python: 1/20
+   - 🔧 Settingup my [world](https://qwq1118.github.io)   >> blog: 8%
+
+<p align="center">
+ 🔔some tips > 关于🎯，有新的情况就会更新
+
 
 
 ### 🌟 GitHub Stats
@@ -22,10 +34,10 @@
 </div>
 
 
-<p align="center">
-    2025 一定会搭建出 my blog 的 >> 进度：8%
-</p>
- 
+
+
+
+
 
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
