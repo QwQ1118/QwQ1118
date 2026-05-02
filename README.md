@@ -23,7 +23,7 @@
 | 💰 Save 1,000,000       | ![44%](https://geps.dev/progress/44) | 440,000 / 1,000,000                  |  
 | 🌍 Travel to 100 cities | ![44%](https://geps.dev/progress/44) | Abroad: 12/40 • Domestic: 32/60      |  
 | 📝 Learn SQL & Python   | ![10%](https://geps.dev/progress/10) | SQL: 1/20 • Python: 1/20             |  
-| 🔧 My [world]([https://qwq1118.github.io](https://qx2blog.pages.dev/)) | ![8%](https://geps.dev/progress/8) | Blog development: 20%                 |  
+| 🔧 My [world]([https://qwq1118.github.io](https://qx2blog.pages.dev/)) | ![8%](https://geps.dev/progress/20) | Blog development: 20%                 |  
 
 Overall Progress: **26.5%** 🚀  
 
