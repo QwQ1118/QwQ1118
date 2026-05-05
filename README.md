@@ -1,4 +1,4 @@
-<div style="font-family: monospace;">
+<div style="font-family:Cascadia Mono;">
 
 ## 👋 Hi there, I'm Christy Wu
 
